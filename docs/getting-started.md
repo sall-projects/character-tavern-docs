@@ -14,7 +14,7 @@ Let's get you settled in!
 ## Step 1: Do I Need an Account? (Browse vs. Interacting)
 
 Good news first: you can totally explore what Character Tavern has to offer without signing up immediately!
-* Or, just head to the **[homepage](https://character-tavern.com/)** to see some of the best and most interesting Cards right now.
+* Just head to the **[homepage](https://character-tavern.com/)** to see some of the best and most interesting Cards right now.
 * You can also check out the main **[Character Catalog](https://character-tavern.com/character/catalog)** to see the wide variety of Cards our community has created.
 
 However, if you want to actually **chat with these AI Character Cards** or **create your own**, you'll need an account. It’s quick, I promise!
@@ -58,7 +58,7 @@ You've got the basics! Now what?
 
 * **Explore, Explore, Explore:** Chat with more Cards! See what the community has created.
 * **Experiment with Models:** After your first chat with Aria Classic, try checking out the chat settings to see how different models impact your conversations.
-* **Understand Puni & Premium:** If you want to access more powerful AI models, learn about our platform currency and subscriptions. Check out the [**Understanding Puni & Premium page](./premium)**.
+* **Understand Puni & Premium:** If you want to access more powerful AI models, learn about our platform currency and subscriptions. Check out the **[Understanding Puni & Premium page](./premium)**.
 * **Join the Community:** Seriously, the best way to enhance your CT experience is to join our [**Discord Server**](https://link.character-tavern.com/discord) (you'll find this link on the About page too!). Share your creations, get help, give feedback directly to me, and just hang out with other roleplay enthusiasts.
 
 I'm really happy to have you here at Character Tavern. My goal was to create a space where we can all enjoy AI roleplay with freedom and creativity. If you have questions, the Discord is the best place to ask!
