@@ -88,7 +88,6 @@ Character Tavern is continually evolving, and Puni may be used for other platfor
 * AI-Assisted Character Creation (Currently listed as Work In Progress - WIP).
 
 ## Payment Security & Premium Subscription
-## Payment Security & Premium Subscription
 
 * **Secure Payment Processing:** Your payments are handled through a trusted, PCI-compliant payment processor.
     * All sensitive payment details are sent via encrypted connections (TLS/HTTPS).
