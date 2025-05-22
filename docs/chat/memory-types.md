@@ -1,6 +1,8 @@
 ---
-title: Understanding how Memory Works
-description: Learn about the different memory systems Sal has built into Character Tavern to keep your conversations flowing.
+title: How Chat Memory Works Here
+sidebar_label: 🧠 Chat Memory
+sidebar_position: 1
+description: Sal breaks down Character Tavern's chat memory systems—Smart Context, Infinite Memory, & Summaries—and how they make your AI roleplays immersive & continuous.
 ---
 
 # Memory: Keeping Our Conversation Alive
