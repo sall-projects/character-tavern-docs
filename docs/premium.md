@@ -2,7 +2,7 @@
 title: Understanding Premium & Puni on Character Tavern
 sidebar_label: Premium & Puni
 description: Learn about Character Tavern's Puni currency and Premium subscription. Understand how to earn, buy, and spend Puni, access different AI models, and the benefits of the $15/month Premium tier.
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 Welcome to Character Tavern! This guide explains our platform's currency, **Puni**, and how it integrates with our Free and Premium membership tiers, allowing you to unlock diverse AI character experiences.
