@@ -34,6 +34,7 @@ The available packs are:
 * **Discovery Pack:** 4,500 Puni for $5
 * **Advantage Pack:** 9,500 Puni for $10
 * **Expert Pack:** 15,000 Puni for $15
+* **Leviathan Pack:** 30,000 Puni for $30
 
 ## Character Tavern Membership Tiers
 

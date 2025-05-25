@@ -7,10 +7,10 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Character Tavern',
   tagline: 'Free, Uncensored AI roleplay',
-  favicon: 'img/favicon.ico',
+  favicon: '/docs/img/favicon.ico',
 
   url: 'https://docs.character-tavern.com',
-  baseUrl: '/',
+  baseUrl: '/docs',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
@@ -44,7 +44,7 @@ const config: Config = {
       title: 'Character Tavern',
       logo: {
         alt: 'CT Logo',
-        src: 'img/favicon.png',
+        src: '/docs/img/favicon.png',
       },
       items: [
         {
